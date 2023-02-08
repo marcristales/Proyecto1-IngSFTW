@@ -1,4 +1,4 @@
-# Proyecto1 - Ingeniería de Software
+# Proyecto 1 - Ingeniería de Software
 
 Bryan España - 21550
 Mario Cristales - 21631
