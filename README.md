@@ -10,3 +10,6 @@ Javier Prado - 21486
 
 # Corte 2
 [Google Docs](https://docs.google.com/document/d/1uTSOolgYY3hUt5WHgU97YXVrOPeUPcRUD88RNo_31Po/edit?usp=sharing)
+
+# Corte 3
+[Google Docs](https://docs.google.com/document/d/1Sn_o0YQvXtBdE9VUiVQNj_F18l2qE8Ug7jeZcVNry6E/edit?usp=sharing)
